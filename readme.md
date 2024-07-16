@@ -36,9 +36,9 @@ The application determines the local time and displays an appropriate greeting.
 
 ### Tabs and List Views
 Adds tabs for "Top links" and "Recent links" and creates list views to display data from the API response.
-![MasterHead](https://github.com/saiaswath07/Ios-app-devtest/blob/main/phone_view2.png)
-![MasterHead](https://github.com/saiaswath07/Ios-app-devtest/blob/main/phone_view3.png)
-![MasterHead](https://github.com/saiaswath07/Ios-app-devtest/blob/main/phone_view4.png)
-![MasterHead](https://github.com/saiaswath07/Ios-app-devtest/blob/main/phone_view5.png)
-![MasterHead](https://github.com/saiaswath07/Ios-app-devtest/blob/main/phone_view6.png)
+![Alt Text](https://github.com/saiaswath07/Ios-app-devtest/blob/main/phone_view2.png)
+(https://github.com/saiaswath07/Ios-app-devtest/blob/main/phone_view3.png)
+(https://github.com/saiaswath07/Ios-app-devtest/blob/main/phone_view4.png)
+(https://github.com/saiaswath07/Ios-app-devtest/blob/main/phone_view5.png)
+(https://github.com/saiaswath07/Ios-app-devtest/blob/main/phone_view6.png)
 
