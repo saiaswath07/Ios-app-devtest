@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project is an iOS application that displays a greeting based on the local time and creates charts from data fetched from an API. It includes various views to manage different sections of the user interface.
+![MasterHead](https://github.com/saiaswath07/Ios-app-devtest/blob/main/phone_view1.png)
 
 ## Features
 1. **Greeting Display**: Displays a greeting message based on the local time.
@@ -35,5 +36,9 @@ The application determines the local time and displays an appropriate greeting.
 
 ### Tabs and List Views
 Adds tabs for "Top links" and "Recent links" and creates list views to display data from the API response.
-![MasterHead](https://github.com/saiaswath07/Ios-app-devtest/blob/main/phone_view1.png)
+![MasterHead](https://github.com/saiaswath07/Ios-app-devtest/blob/main/phone_view2.png)
+![MasterHead](https://github.com/saiaswath07/Ios-app-devtest/blob/main/phone_view3.png)
+![MasterHead](https://github.com/saiaswath07/Ios-app-devtest/blob/main/phone_view4.png)
+![MasterHead](https://github.com/saiaswath07/Ios-app-devtest/blob/main/phone_view5.png)
+![MasterHead](https://github.com/saiaswath07/Ios-app-devtest/blob/main/phone_view6.png)
 
